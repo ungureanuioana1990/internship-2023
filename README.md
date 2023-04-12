@@ -4,6 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+steps:
+1. git clone https://github.com/ungureanuioana1990/internship-2023.git
+2. npm install
+3. ng serve
+
+Enjoy!
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
